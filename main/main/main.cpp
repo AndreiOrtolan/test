@@ -1,6 +1,9 @@
 #include "stdio.h"
 
 int main(){
+	//test
 	printf( "hello world");
 	return 0;
+	 //test2
+	printf("2");
 }
